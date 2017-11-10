@@ -22,4 +22,18 @@
 
 
 /* Button CSS */
+.starter{
+    color:#9bbef7;
+    float:right;
+    
+}
 
+#photo{
+    font-size:30px; 
+    float:right;
+    
+}
+
+#code{
+    float:right;
+}
