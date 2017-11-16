@@ -23,16 +23,24 @@
 
 /* Button CSS */
 .starter{
-    color:#9bbef7;
-
+    color:black;
+    
 }
 
 #photo{
     font-size:30px; 
-   
+    color:#17a0c6;
 }
 
-.thumbnail1{
-    width:100px;
-    height:100px;
+#code{
+    font-size:30px;
+    color:#17a0c6;
 }
+.thumbnail1{
+    margin-top:10px;
+}
+
+body {
+background-color: lightblue;
+}
+
